@@ -1,6 +1,4 @@
-# 🚀 Express TypeScript Boilerplate 2024
-
-[![CI](https://github.com/edwinhern/express-typescript-2024/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/edwinhern/express-typescript-2024/actions/workflows/ci.yml)
+# 🚀 Express TypeScript Starter + Swagger UI
 
 ```code
 Hey There! 🙌
@@ -39,17 +37,13 @@ This boilerplate aims to:
 
 ## 🛠️ Getting Started
 
-### Video Demo
-
-For a visual guide, watch the [video demo](https://github.com/user-attachments/assets/b1698dac-d582-45a0-8d61-31131732b74e) to see the setup and running of the project.
-
 ### Step-by-Step Guide
 
 #### Step 1: 🚀 Initial Setup
 
-- Clone the repository: `git clone https://github.com/edwinhern/express-typescript-2024.git`
-- Navigate: `cd express-typescript-2024`
-- Install dependencies: `npm ci`
+- Clone the repository: `git clone https://github.com/void-panda/express-ts-starter.git`
+- Navigate: `cd express-ts-starter`
+- Install dependencies: `npm i` or `pnpm i` or `yarn install`
 
 #### Step 2: ⚙️ Environment Configuration
 
